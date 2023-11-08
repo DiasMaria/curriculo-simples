@@ -2,3 +2,8 @@ configurando o git
 git config --global user.email eduarda.mariadias25@gmail.com
 git config --global user.name DiasMaria
 git clone https://github.com/DiasMaria/curriculo-simples.git
+
+Salvando no git
+git add .
+git commit -m "Inicio dos codigos da pagina inicial"
+git push 
